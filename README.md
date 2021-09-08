@@ -8,3 +8,8 @@ i would like to go there once in a lifetime as they are updated with **weapons**
 1. Bus/car ride to kansas Airport
 2. Flight to New york
 3. car ride to brother place
+
+# List of favourite items (unordered)
+* pizza
+* burger
+* lemonade
