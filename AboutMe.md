@@ -31,4 +31,4 @@ Followinng is the list of food items and prices
 
   > String Hashing Algorithm
  
-  [source] (https://en.wikipedia.org/wiki/Hash_function/)
+  [source] <https://en.wikipedia.org/wiki/Hash_function/>
