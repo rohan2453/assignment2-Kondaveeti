@@ -10,7 +10,7 @@ Followinng is the list of food items and prices
 
 | Food Item      | Location | Price    |
 | :---        |    :----:   |          ---: |
-| Pepsi    | kansas      |  5$   |
-| Lemonade | maryville   |   6$    |
-| sprite   | nashville   |   7$    |
-| beer     | newyork     |   8$    |
+| Pepsi    | kansas      |  $5   |
+| Lemonade | maryville   |   $6    |
+| sprite   | nashville   |   $7    |
+| beer     | newyork     |   $8    |
