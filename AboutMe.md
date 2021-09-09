@@ -26,3 +26,9 @@ Followinng is the list of food items and prices
 >Money is a tool, so I don't have to be.
 
   *― Eddie Mumford*
+
+  ---------------------------------------------------------------------------------
+
+  > String Hashing Algorithm
+  [source]
+  [source] : https://en.wikipedia.org/wiki/Hash_function
