@@ -14,3 +14,15 @@ Followinng is the list of food items and prices
 | Lemonade | maryville   |   $6    |
 | sprite   | nashville   |   $7    |
 | beer     | newyork     |   $8    |
+
+-----------------------------------------------------------------------------------------
+
+# Quotes
+
+>Stick to journalism, Mr Cort, where you never have to understand anything.
+
+  *- Iain Pears*
+
+>Money is a tool, so I don't have to be.
+
+  *― Eddie Mumford*
